@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Abay.
+   * Contact Me on wa.me/62895322697437
+   * Follow https://github.com/AzbarGaming
 */
 
 require('./settings/config')
